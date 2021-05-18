@@ -15,6 +15,7 @@ public class ParallelSearchAlgorithm {
     public int searchElementByValue(int key) {
         int threadCount = Runtime.getRuntime().availableProcessors();
         ExecutorService executorService = Executors.newFixedThreadPool(threadCount);
+
         List<Future<Integer>> futureList = new ArrayList<>();
         int block = elements.size() / threadCount;
         int start = 0;
