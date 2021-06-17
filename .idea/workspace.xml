@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54e7a8e2-c64c-44ee-8867-c7f8730a3af7" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LW-2/src/main/java/com/example/demo/controller/PlayerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LW-2/src/main/java/com/example/demo/dao/PlayerDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LW-2/src/main/java/com/example/demo/model/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LW-2/src/main/java/com/example/demo/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LW-2/src/main/java/com/example/demo/model/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LW-2/src/main/java/com/example/demo/model/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LW-2/src/main/java/com/example/demo/service/PlayerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ParallelSearchAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ParallelSearchAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParallelSearchAlgorithm$SearchTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ParallelSearchAlgorithm$SearchTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ParallelSearchAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ParallelSearchAlgorithm.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +46,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -68,7 +54,7 @@
       <recent name="com.example.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoApplication">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
       <module name="LW-2" />
@@ -91,8 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoApplication" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DemoApplication" />
       </list>
     </recent_temporary>
   </component>
